@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@test.com",
+        "status":"Active"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "email": "jane@test.com",
+        "status":"Active"
+    },
+    {
+        "id": 3,
+        "name": "Steven Doe",
+        "email": "steven@test.com",
+        "status":"Active"
+    }
+
+]
