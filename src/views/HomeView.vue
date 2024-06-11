@@ -9,8 +9,8 @@ import team from '@/team.json'
 
 <template>
 
-  <TeamHeader></TeamHeader>
-  <TeamMembers :members="team"></TeamMembers>
-  <TeamFooter></TeamFooter>
+  <TeamHeader :team="team"></TeamHeader>
+  <TeamMembers :team="team"></TeamMembers>
+  <TeamFooter :team="team"></TeamFooter>
 
 </template>
